@@ -1,6 +1,8 @@
 pgbackup
 ========
 
+TEST
+
 CLI for backing up remote PostgreSQL databases locally or to AWS S3.
 
 ## Usage
